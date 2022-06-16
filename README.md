@@ -23,6 +23,6 @@ Mouse: Look Around (Click in the window if it isn't working)
 # Credits
 Biff is copyright Nintendo, this is used under fair use
 Min Min Bodypillow image found here, if you can find the original artist please let me know https://twitter.com/minminjin7/status/1277740317127647232
-Unreal Color Picker: https://www.unrealengine.com/marketplace/en-US/product/simple-color-wheel
-Unreal Engine is copyright Epic Games
-Blender is copyright Blender Foundation.
+\nUnreal Color Picker: https://www.unrealengine.com/marketplace/en-US/product/simple-color-wheel
+\nUnreal Engine is copyright Epic Games
+\nBlender is copyright Blender Foundation.
