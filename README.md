@@ -19,7 +19,7 @@ Left Shift: Take a Photo
 WASD: Move Camera
 Mouse: Look Around (Click in window if it isn't working)
 
-Credits
+# Credits
 Biff is copyright Nintendo, this is used under fair use
 Min Min Bodypillow image found here, if you can find the original artist please let me know https://twitter.com/minminjin7/status/1277740317127647232
 Unreal Engine is copyright Epic Games
